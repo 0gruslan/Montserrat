@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+    display: block;
+    background: lightblue;
+}
+
+section{
+    width: 1280px;
+    margin: 0 auto;
+    background: lavender;
+}
+.h1_first_text {
+    font-family: "Montserrat-VariableFont_wght";
+    font-size: 200px;
+    text-align: center;
+} 
